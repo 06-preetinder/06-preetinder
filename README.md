@@ -51,7 +51,7 @@ I love exploring systems deeply — understanding how they work and how they can
 ### 🌍 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preetinderjeet-singh-4840a627b)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/06-preetinder/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/06_preetinder/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/06-preetinder)
 
 > “If it is not right, do not do it; if it is not true, do not say it.” — *Marcus Aurelius*  
