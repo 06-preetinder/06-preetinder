@@ -22,7 +22,7 @@ I love exploring systems deeply — understanding how they work and how they can
 
 - 🕵️‍♂️ [**Napolean-AI**](https://github.com/06-preetinder/Napolean-ai) — AI-guided crawler combining Selenium, BeautifulSoup, and NLP.  
 - 🌐 [**Subdomain Finder**](https://github.com/06-preetinder/Subdomain_finder) — Automated reconnaissance tool for subdomain enumeration.  
-- ⚙️ [**Port Scanner**](https://github.com/06-preetinder/Port-Scanner) — Lightweight Python network scanner.  
+- ⚙️ [**Spatio-Temporal-Flood-Risk-Assessment**](https://github.com/06-preetinder/Spatio-Temporal-Flood-Risk-Assessment) — Floods in India have traditionally been linked to extreme rainfall, but climate change and ecological degradation are shifting these dynamics. This research project introduces an integrated framework combining econometric modeling, machine learning, SHAP-based explainability, and spatial analysis to analyze spatio-temporal flood risks using both hydrological (rainfall) and ecological (tree loss/deforestation) factors.  
 - 🤖 [**AI Career Guidance**](https://github.com/06-preetinder/ai-carrier-guidance) — Smart AI-based career advisor.  
 
 > “We are what we repeatedly do. Excellence, then, is not an act, but a habit.” — *Aristotle*  
